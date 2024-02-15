@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+.header{
+background:lightskyblue;
+padding: 20px;
+height: auto;
+}
+
+.header-title{
+    margin-top: 0;
+    background-color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(0, 102, 255); 
+}
+.header-nav{
+    margin: 50px 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+#id-nav a:hover{
+    color: aliceblue;
+}
+
+.header-nav a{
+    margin: 25px;
+    padding: 5px;
+    background-color: aquamarine ;
+    border-radius: 5px;
+    color: rgb(0, 102, 255);
+    text-decoration: none;
+    
+    
+}
+.header img{
+    width: 100%;
+    border-radius: 10px;
+}
+.post-header{
+background: lightblue;
+padding: 20px;
+}
+
+.footer{
+background-color: lightseagreen;
+padding: 10px 20px;
+}
